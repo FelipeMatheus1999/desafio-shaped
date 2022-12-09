@@ -7,12 +7,12 @@
 > response:
 > ```json
 > [
->> {
->>  "id": 1,
->>  "name": "Keyla Alves da Silva",
->>  "age": 23,
->>  "address": "Rua Cecília Cavalcante"
->> }
+>  {
+>   "id": 1,
+>   "name": "Keyla Alves da Silva",
+>   "age": 23,
+>   "address": "Rua Cecília Cavalcante"
+>  }
 > ]
 > ```
 
@@ -81,12 +81,12 @@
 > response:
 > ```json
 > [
->> {
->>  "id": 1,
->>  "name": "Keyla Alves da Silva",
->>  "age": 23,
->>  "address": "Rua Cecília Cavalcante"
->> }
+>  {
+>   "id": 1,
+>   "name": "Keyla Alves da Silva",
+>   "age": 23,
+>   "address": "Rua Cecília Cavalcante"
+>  }
 > ]
 > ```
 
