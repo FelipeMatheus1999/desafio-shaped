@@ -1,0 +1,31 @@
+# Python
+__pycache__
+*.py[cod]
+*.zip
+.cache
+.env
+.coverage
+.htmlcov
+
+# virtualenv
+.venv/
+venv/
+bin/
+include/
+src/
+lib/
+share/
+pip-selfcheck.json
+
+# OSX
+.DS_Store
+
+# Dev
+temp/
+*.sqlite3
+opsnr.stt
+.pytest_cache
+
+# Generated Docs
+/docs/site
+
