@@ -1,13 +1,13 @@
 build:
-	@echo "--> Building my_library containers..."
+	@echo "--> Building shaped-api containers..."
 	DOCKER_BUILDKIT=1; docker-compose build
 
 build-no-cache:
-	@echo "--> Building my_library containers..."
+	@echo "--> Building shaped-api containers..."
 	DOCKER_BUILDKIT=1; docker-compose build --no-cache
 
 down:
-	@echo "--> Come Down my_library containers..."
+	@echo "--> Come Down shaped-api containers..."
 	docker-compose down
 
 install-requirements:
