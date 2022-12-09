@@ -20,6 +20,9 @@ pip-selfcheck.json
 # OSX
 .DS_Store
 
+#Pycharm
+.idea
+
 # Dev
 temp/
 *.sqlite3
